@@ -1,7 +1,7 @@
 {
-  "name": "nest-zoom-api",
+  "name": "npm-lib-boilerplate",
   "version": "0.0.1",
-  "description": "zoom api module for nestjs",
+  "description": "npm library boilerplate",
   "author": "puroong",
   "license": "MIT",
   "scripts": {
