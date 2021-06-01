@@ -1,10 +1,10 @@
 {
   "name": "npm-lib-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "npm library boilerplate",
   "author": "puroong",
   "license": "MIT",
-  "main": "dist/main.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc -p tsconfig.json",
     "format": "prettier --write \"**/*.ts\"",
